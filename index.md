@@ -79,7 +79,7 @@ Summary statistics from the DSPT 2021/22 toolkit are shown.
 
 {% include cross_table_summary_21_222022-10-05.html %}
 
-<iframe src="./outputs/dspt_summary_chart_21_22.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src=".dspt_summary_chart_21_22.html" height="600px" width="100%" style="border:none;"></iframe>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -95,10 +95,12 @@ The compliance of individual ICBs and Trusts are mapped below, with Region bound
 
 
 <br>
+
+## ICBs and Trusts - Composite Score
 The compliance of individual ICBs, made up of a composite score of 50% of the ICB score itself which and 50% of a simple average of Trust scores contained in the ICB. Region boundaries are displayed in blue.
 
 
-<iframe src="ICS_composite_map_03_10_22.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="icb_composite_map_16_11_23.html" height="600px" width="100%" style="border:none;"></iframe>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
