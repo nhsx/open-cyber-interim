@@ -73,7 +73,7 @@ Organisations open 31st March 2021 are considered (the end of 20/21, the financi
 
 Organisations without a published DSPT status as a result of a merger, inherit their DSPT status from it's successor organisation if published. Otherwise, the DSPT status will be mapped as 'Not Published'.
 -->
-## Summary of DSPT Compliance (2021/2022 edition).
+## Summary of DSPT Compliance (2022/2023 edition).
 <br>
 Summary statistics from the DSPT 2021/22 toolkit are shown.
 
@@ -89,7 +89,7 @@ Summary statistics from the DSPT 2021/22 toolkit are shown.
 The compliance of individual ICBs and Trusts are mapped below, with Region boundaries. Toggle the boxes on the top right-hand side to add layers.
 
 
-<iframe src="./outputs/icb_trusts_map_16_11_23.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="icb_trusts_map_16_11_23.html" height="600px" width="100%" style="border:none;"></iframe>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -98,7 +98,7 @@ The compliance of individual ICBs and Trusts are mapped below, with Region bound
 The compliance of individual ICBs, made up of a composite score of 50% of the ICB score itself which and 50% of a simple average of Trust scores contained in the ICB. Region boundaries are displayed in blue.
 
 
-<iframe src="./outputs/ICS_composite_map_03_10_22.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="ICS_composite_map_03_10_22.html" height="600px" width="100%" style="border:none;"></iframe>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
