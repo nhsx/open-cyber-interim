@@ -62,7 +62,7 @@ Summary statistics from the DSPT 2021/22 toolkit are shown.
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-<iframe src="./_includes/barchart_summary_FY2021-ii_2023-11-20.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="./outputs/barchart_summary_FY2023_2023-11-20.html" height="600px" width="100%" style="border:none;"></iframe>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
