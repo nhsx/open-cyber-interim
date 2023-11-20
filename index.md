@@ -77,7 +77,6 @@ Summary statistics from the DSPT 2021/22 toolkit are shown.
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-{% include data_DSPTmetric2023-11-20.html %}
 
 
 ## ICBs and Trusts - Individual Compliance
