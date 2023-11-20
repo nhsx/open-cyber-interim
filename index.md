@@ -40,20 +40,16 @@ For more information on the Data Security and Protection Toolkit, please visit t
 
 ## Notes on Methodology
 
-<b>Composite Metrics for ICS</b>
+<b>Composite Metrics for ICB</b>
 
-The DSPT status for Clinical Commissioning Groups (CCGs) and Trusts are coded (scored) as follows to create the proxy for Integrated Care System (ICS) summary metrics:
+The DSPT status for Integrated Care Boards (ICB) and Trusts are coded (scored) as follows:
 
 <li>Status Exceeded = 3</li>
 <li>Status Met = 1</li>
 <li>Approaching Standards = -1</li>
 <li>Not Published/Not Met = -3</li>
 <br>
-CCG scores within an ICS are then weighted based on the resident population.
-
-Trust scores within an ICS are weighted as a simple average.
-
-Finally, for each ICS, the CCG and Trust scores are weighted equally to arrive at the ICS composite score.
+Trust scores within an ICB are weighted as a simple average. 50% of the Trusts average score and 50% of the ICB score is used to calculate the total score for each ICB.
 
 The final scaling for each of the summary metrics displayed will have an upper bound of 3 and a lower bound of -3.
 
@@ -77,11 +73,11 @@ Organisations without a published DSPT status as a result of a merger, inherit t
 <br>
 Summary statistics from the DSPT 2021/22 toolkit are shown.
 
-{% include cross_table_summary_21_222022-10-05.html %}
-
-<iframe src=".dspt_summary_chart_21_22.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="./outputs/data_DSPTmetric2023-11-20.html"></iframe>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
+{% include data_DSPTmetric2023-11-20.html %
 
 
 ## ICBs and Trusts - Individual Compliance
