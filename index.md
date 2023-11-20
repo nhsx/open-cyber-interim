@@ -83,6 +83,9 @@ Summary statistics from the DSPT 2021/22 toolkit are shown.
 <br>
 The compliance of individual ICBs and Trusts are mapped below, with Region boundaries. Toggle the boxes on the top right-hand side to add layers.
 
+<iframe src="/outputs/data_DSPTmetric2023-11-20.html" height="600px" width="100%" style="border:none;"></iframe>
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 <iframe src="icb_trusts_map_16_11_23.html" height="600px" width="100%" style="border:none;"></iframe>
 
